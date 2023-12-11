@@ -1,0 +1,21 @@
+[submodule "aoc1"]
+	path = aoc1
+	url = /home/duda/Code/rust/aoc/aoc1
+[submodule "aoc2"]
+	path = aoc2
+	url = /home/duda/Code/rust/aoc/aoc2
+[submodule "aoc3"]
+	path = aoc3
+	url = /home/duda/Code/rust/aoc/aoc3
+[submodule "aoc4"]
+	path = aoc4
+	url = /home/duda/Code/rust/aoc/aoc4
+[submodule "aoc5"]
+	path = aoc5
+	url = /home/duda/Code/rust/aoc/aoc5
+[submodule "aoc6"]
+	path = aoc6
+	url = /home/duda/Code/rust/aoc/aoc6
+[submodule "aoc10"]
+	path = aoc10
+	url = /home/duda/Code/rust/aoc/aoc10
